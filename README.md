@@ -1,6 +1,6 @@
 # Architecture MVC
 
-# 
+
 
 **MVC** (Model-View-Controller) est un modèle de conception de logiciels couramment utilisé pour implémenter des interfaces utilisateur, des données et une logique de contrôle. Il met l'accent sur une séparation entre la logique métier du logiciel et l'affichage. Cette "séparation des préoccupations" prévoit une meilleure division du travail et une meilleure maintenance. Certains autres modèles de conception sont basés sur MVC, tels que MVVM (Model-View-Viewmodel), MVP (Model-View-Presenter) et MVW (Model-View-Whatever).
 
@@ -12,7 +12,7 @@ Les trois parties du modèle de conception logicielle MVC peuvent être décrite
 2. Vue: Poignées mise en page et affichage.
 3. Contrôleur: Route les commandes vers le modèle et les parties de vue.
 
-# 
+
 
 ## Exemple complet :
 
